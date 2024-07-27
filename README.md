@@ -1,4 +1,4 @@
 # Thiagoclmn - Github.io homepage
 
-- URL: (https://thiagoclmn.github.io/)[Link do site aqui]
+- URL: [Link do site aqui](https://thiagoclmn.github.io/)
 - Graduação em Eng. Elétrica na Escola POlitécnica da Universidade de São Paulo (EPUSP)
