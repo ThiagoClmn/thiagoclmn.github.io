@@ -1,5 +1,4 @@
 # Thiagoclmn - Github.io homepage
 
-- Link aqui: (clica aqui meu nobre)[https://thiagoclmn.github.io/]
-- aluno da usp (eng eletrica - poliusp)
-
+- URL: (https://thiagoclmn.github.io/)[Link do site aqui]
+- Graduação em Eng. Elétrica na Escola POlitécnica da Universidade de São Paulo (EPUSP)
